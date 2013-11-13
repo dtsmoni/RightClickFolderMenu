@@ -1,0 +1,10 @@
+D:\Projects\SampleProjects\appmenu_src\AppendMenu\bin\Debug\AppendMenu.exe
+D:\Projects\SampleProjects\appmenu_src\AppendMenu\bin\Debug\AppendMenu.pdb
+D:\Projects\SampleProjects\appmenu_src\AppendMenu\obj\Debug\AppendMenu.csprojResolveAssemblyReference.cache
+D:\Projects\SampleProjects\appmenu_src\AppendMenu\obj\Debug\AppendMenu.About.resources
+D:\Projects\SampleProjects\appmenu_src\AppendMenu\obj\Debug\AppendMenu.AppendToMenu.resources
+D:\Projects\SampleProjects\appmenu_src\AppendMenu\obj\Debug\AppendMenu.csproj.GenerateResource.Cache
+D:\Projects\SampleProjects\appmenu_src\AppendMenu\obj\Debug\AppendMenu.exe
+D:\Projects\SampleProjects\appmenu_src\AppendMenu\obj\Debug\AppendMenu.pdb
+D:\GitHub\RightClickFolderMenu\appmenu_src\AppendMenu\obj\Debug\AppendMenu.exe
+D:\GitHub\RightClickFolderMenu\appmenu_src\AppendMenu\obj\Debug\AppendMenu.pdb
